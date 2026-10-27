@@ -38,7 +38,6 @@ Here is a glimpse of what we build. *(Check our pinned repositories for the late
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| 🛡️ **[Project-Hardening]** | Comprehensive scripts to harden Linux/Windows environments. | ![Active](https://img.shields.io/badge/Status-Active-success.svg) |
 | 👁️ **[Threat-Scanner]** | A lightweight tool for detecting malicious activity on endpoints. | ![Active](https://img.shields.io/badge/Status-Active-success.svg) |
 | 🔒 **[Secure-Lib]** | An open-source library for secure cryptographic implementations. | ![Beta](https://img.shields.io/badge/Status-Beta-yellow.svg) |
 
