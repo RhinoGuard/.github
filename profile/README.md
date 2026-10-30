@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🛡️ [Organization Name]
+# 🛡️ RhinoGuard
 ### Building robust defenses for the digital frontier.
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-100%25-brightgreen.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white)](#)
